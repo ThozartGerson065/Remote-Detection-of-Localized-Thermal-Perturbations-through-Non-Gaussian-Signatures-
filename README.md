@@ -14,4 +14,4 @@ This project represents an ongoing effort to investigate and develop new scienti
 Thank you for taking the time to explore this work.
 
 Sincerely,
-Gerson da Neri-Silva, Reinaldo R. Rosa, Carlos E. Falandes, Jonas Jakutis
+Gerson Neri-Silva, Reinaldo R. Rosa, Carlos E. Falandes, Jonas Jakutis
